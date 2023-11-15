@@ -12,7 +12,7 @@ public class Board extends JPanel implements ActionListener {
     GameOver gameOver;
     int B_WIDTH = SnakeGame.B_WIDTH;
     int B_HEIGHT = SnakeGame.B_HEIGHT;
-    int DOT_SIZE = 10;
+    int DOT_SIZE = 25;
     int MAX_DOTS;
     static final int INIT_DOTS = 4;
     int DOTS;
